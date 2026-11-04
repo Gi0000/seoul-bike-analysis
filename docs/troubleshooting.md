@@ -1,5 +1,5 @@
 오류 메시지, 원인, 해결 과정
-# 데이터 정제 및 가공
+# 데이터 수집 및 구조 파악
 ## `UnicodeDecodeError`
 - 발생 상황: Pandas로 CSV를 읽을 때 오류 발생
 - 오류 메시지: `UnicodeDecodeError`
